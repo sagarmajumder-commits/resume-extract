@@ -42,6 +42,11 @@ python -m extract.parser resume.pdf
 }
 ```
 
+## Notes
+
+- Recommended: Python 3.9+ for best compatibility
+- Consider using a virtual environment to avoid dependency conflicts
+
 ## Requirements
 
 - Python 3.8+
